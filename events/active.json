@@ -1,0 +1,52 @@
+{
+  "slug": "salkara-decoraters-and-cateres-thrissur",
+  "name": "Salkara Decoraters & Cateres",
+  "shortName": "Salkara Decoraters & Cateres",
+  "descriptor": "Catering & Events",
+  "address": "Puzhampallam, Thrissur, Keralam 680014",
+  "area": "Puzhampallam",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680014",
+  "geo": {
+    "lat": 10.4892492,
+    "lng": 76.2668941
+  },
+  "mapsLink": "https://maps.google.com/?cid=6071910647728556113",
+  "phone": "+91 93885 53701",
+  "whatsapp": "919388553701",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.3,
+  "reviewCount": 44,
+  "reviews": [
+    {
+      "name": "Vikrant C",
+      "rating": 5,
+      "quote": "Kerala's best catering and decoration service . One spot all event management and specialized in catering services"
+    },
+    {
+      "name": "Muhammed Riyas (Rio)",
+      "rating": 4,
+      "quote": "So good. Good food products. They have many idea about their decoration"
+    },
+    {
+      "name": "sunil m g",
+      "rating": 5,
+      "quote": "Quality product in quantity, with a good service, timely responding I am recommending the salk ara"
+    },
+    {
+      "name": "ABBAS ALANCHERY",
+      "rating": 5,
+      "quote": "one of the best catering in tcr"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://salkara-decoraters-and-cateres-thri.vercel.app"
+}
